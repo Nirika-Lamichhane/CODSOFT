@@ -1,0 +1,8 @@
+# not uploading virtual environment
+codsoft_env/
+
+# not uploading csv files
+*.csv
+
+# not uploading ipynb_checkpoints
+.ipynb_checkpoints/
