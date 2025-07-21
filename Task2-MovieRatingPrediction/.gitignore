@@ -1,4 +1,5 @@
 # not uploading virtual environment
+datavenv/
 codsoft_env/
 
 # not uploading csv files
