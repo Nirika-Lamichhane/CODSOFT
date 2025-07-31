@@ -1,8 +1,0 @@
-# not uploading virtual environment
-venv/
-
-# not uploading csv files
-*.csv
-
-# not uploading ipynb_checkpoints
-.ipynb_checkpoints/
