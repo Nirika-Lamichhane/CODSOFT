@@ -1,0 +1,9 @@
+
+# not uploading csv files
+*.csv
+
+# not uploading ipynb_checkpoints
+.ipynb_checkpoints/
+
+fraudenv/
+# not uploading virtual environment
